@@ -2,8 +2,13 @@
 content_type: resource
 description: An insight into discrete and continuous random variables, and their differences,
   use of histograms for discrete variables.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-063-communicating-with-data-summer-2003/0a8d0e45e9015e4af215cad7dbff8dfa_lecture6.pdf
+file: /media/courses/15-063-communicating-with-data-summer-2003/0a8d0e45e9015e4af215cad7dbff8dfa_lecture6.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lecture6.pdf
 uid: 0a8d0e45-e901-5e4a-f215-cad7dbff8dfa

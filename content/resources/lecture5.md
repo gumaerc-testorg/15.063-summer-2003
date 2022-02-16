@@ -2,8 +2,13 @@
 content_type: resource
 description: Lecture notes showing the importance of decision trees and arriving at
   relative judgements.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-063-communicating-with-data-summer-2003/da0a0ca3328ba88fe25e00568f323356_lecture5.pdf
+file: /media/courses/15-063-communicating-with-data-summer-2003/da0a0ca3328ba88fe25e00568f323356_lecture5.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lecture5.pdf
 uid: da0a0ca3-328b-a88f-e25e-00568f323356

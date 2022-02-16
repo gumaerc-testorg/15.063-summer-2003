@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Building decision tree, decision and sensitivity analysis and examples.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-063-communicating-with-data-summer-2003/f69fae41bd8fb12612ef5094a582cda5_rec1.pdf
+file: /media/courses/15-063-communicating-with-data-summer-2003/f69fae41bd8fb12612ef5094a582cda5_rec1.pdf
 file_type: application/pdf
+learning_resource_types:
+- Recitations
+ocw_type: OCWFile
+parent_title: Recitations
+parent_type: CourseSection
 resourcetype: Document
 title: rec1.pdf
 uid: f69fae41-bd8f-b126-12ef-5094a582cda5
