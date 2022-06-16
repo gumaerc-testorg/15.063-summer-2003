@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/15-063-communicating-with-data-summer-2003/79806c7cf25dd5752ca8ed2798b03ddb_final.pdf
+file: /courses/15-063-communicating-with-data-summer-2003/79806c7cf25dd5752ca8ed2798b03ddb_final.pdf
 file_type: application/pdf
 learning_resource_types:
 - Exams

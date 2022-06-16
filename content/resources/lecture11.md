@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/15-063-communicating-with-data-summer-2003/a546a4dc680a06bfd15b244715ab08ac_lecture11.pdf
+file: /courses/15-063-communicating-with-data-summer-2003/a546a4dc680a06bfd15b244715ab08ac_lecture11.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
