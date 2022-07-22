@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 1a896beb-e81d-7d65-b86f-5f90ebdeb385
 ---
@@ -40,7 +44,7 @@ Introduction
 Decision Analysis I - Kendall Crab and Lobster Case
 {{< tdclose >}}
 {{< tdopen >}}
-Prepare Kendall Crab and Lobster Case to discuss the following questions in class: What are the choices that Jeff Daniels faces? What are the sources of uncertainty? What are the consequences of the various outcomes? What course of action would you recommend for Jeff Daniels? Please refer to these instructions ([PDF]({{< baseurl >}}/resources/lobstercaseinstructions)).
+Prepare Kendall Crab and Lobster Case to discuss the following questions in class: What are the choices that Jeff Daniels faces? What are the sources of uncertainty? What are the consequences of the various outcomes? What course of action would you recommend for Jeff Daniels? Please refer to these instructions ({{% resource_link dd807bf2-71f1-180c-a2a5-3f9afc508fc3 "PDF" %}}).
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -100,8 +104,8 @@ Discrete Probability
 Binomial Distribution
 {{< tdclose >}}
 {{< tdopen >}}
-FIRST HOMEWORK DUE ([PDF]({{< baseurl >}}/resources/hw1))  
-Solutions - ([PDF]({{< baseurl >}}/resources/hw1solutions))
+FIRST HOMEWORK DUE ({{% resource_link 2b3a0fef-4a48-190a-e347-e69114c0b07a "PDF" %}})  
+Solutions - ({{% resource_link 287498c1-6d00-5f51-9da3-f4b2f11ea22b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -149,8 +153,8 @@ Central Limit Theorem
 Sampling and Sample Means
 {{< tdclose >}}
 {{< tdopen >}}
-SECOND HOMEWORK DUE ([PDF]({{< baseurl >}}/resources/hw2))  
-Solutions - ([PDF]({{< baseurl >}}/resources/hw2solutions))
+SECOND HOMEWORK DUE ({{% resource_link 92948de7-9a4e-7b25-3dba-b2810c823070 "PDF" %}})  
+Solutions - ({{% resource_link 041f4667-b85d-4b6c-fb20-ff09883a6f7f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
