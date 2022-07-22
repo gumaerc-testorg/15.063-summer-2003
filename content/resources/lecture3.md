@@ -5,6 +5,7 @@ file: /courses/15-063-communicating-with-data-summer-2003/5b1504a6a47ef2bb32e89e
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture3.pdf
 uid: 5b1504a6-a47e-f2bb-32e8-9e495e1a51fe
 ---
 Relating judgement with probability laws and theorem
-

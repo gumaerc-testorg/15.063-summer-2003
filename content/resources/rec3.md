@@ -6,6 +6,7 @@ file: /courses/15-063-communicating-with-data-summer-2003/c0c6d7f6436725cd75b277
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: rec3.pdf
 uid: c0c6d7f6-4367-25cd-75b2-77d046193ab2
 ---
 An insight into binomial distribution variables, covariance and correlation, sum of rv, normal rv.
-

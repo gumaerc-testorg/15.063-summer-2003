@@ -5,6 +5,7 @@ file: /courses/15-063-communicating-with-data-summer-2003/1ef9961afa1d5f12d037b1
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: rec6.pdf
 uid: 1ef9961a-fa1d-5f12-d037-b129a1d68659
 ---
 Contains linear, multiple regressions and some problems.
-

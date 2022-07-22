@@ -5,6 +5,7 @@ file: /courses/15-063-communicating-with-data-summer-2003/79806c7cf25dd5752ca8ed
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection

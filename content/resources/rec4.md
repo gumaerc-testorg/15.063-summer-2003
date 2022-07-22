@@ -5,6 +5,7 @@ file: /courses/15-063-communicating-with-data-summer-2003/95c271a557532effc4559c
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: rec4.pdf
 uid: 95c271a5-5753-2eff-c455-9cecd08c07bc
 ---
 Normal rv, central limit theorem, statistical sampling
-

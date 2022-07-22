@@ -5,6 +5,7 @@ file: /courses/15-063-communicating-with-data-summer-2003/933a4eaa73f91b87e0a8df
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture2.pdf
 uid: 933a4eaa-73f9-1b87-e0a8-dfe47fdcab56
 ---
 Importance of Decision Trees and Sensitivity Analysis
-

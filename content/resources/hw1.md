@@ -5,6 +5,7 @@ file: /courses/15-063-communicating-with-data-summer-2003/2b3a0fef4a48190ae347e6
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection

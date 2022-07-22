@@ -5,6 +5,7 @@ file: /courses/15-063-communicating-with-data-summer-2003/b0dd7ab0f751a7c2bce0b2
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection

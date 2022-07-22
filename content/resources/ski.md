@@ -5,6 +5,7 @@ file: /courses/15-063-communicating-with-data-summer-2003/72895ca866d1f3c17c0695
 file_type: application/msword
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
