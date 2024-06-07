@@ -2,6 +2,7 @@
 content_type: resource
 description: Formula sheet to support final exam.
 file: /courses/15-063-communicating-with-data-summer-2003/094f25423f6ce2621022dce1c913be4c_formulasheetforfinal.pdf
+file_size: 94098
 file_type: application/pdf
 learning_resource_types:
 - Exams
