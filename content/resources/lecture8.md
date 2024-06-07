@@ -2,6 +2,7 @@
 content_type: resource
 description: Importance of portfolio risk management.
 file: /courses/15-063-communicating-with-data-summer-2003/63ee415d5ebfff09441b5379c353fff8_lecture8.pdf
+file_size: 229697
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

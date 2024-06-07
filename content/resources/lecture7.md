@@ -3,6 +3,7 @@ content_type: resource
 description: Binomial Distribution for random variables, binomial probability distribution
   formula with example problem.
 file: /courses/15-063-communicating-with-data-summer-2003/edb9afeb903c32bd535688046e610664_lecture7.pdf
+file_size: 142757
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/15-063-communicating-with-data-summer-2003/b0dd7ab0f751a7c2bce0b230b350c18c_lecture20.pdf
+file_size: 127309
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
