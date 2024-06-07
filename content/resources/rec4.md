@@ -2,6 +2,7 @@
 content_type: resource
 description: Normal rv, central limit theorem, statistical sampling
 file: /courses/15-063-communicating-with-data-summer-2003/95c271a557532effc4559cecd08c07bc_rec4.pdf
+file_size: 271342
 file_type: application/pdf
 learning_resource_types:
 - Recitations

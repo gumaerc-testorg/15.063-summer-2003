@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/15-063-communicating-with-data-summer-2003/dd807bf271f1180ca2a53f9afc508fc3_lobstercaseinstructions.pdf
+file_size: 22531
 file_type: application/pdf
 learning_resource_types:
 - Assignments
