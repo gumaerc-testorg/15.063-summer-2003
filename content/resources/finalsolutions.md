@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/15-063-communicating-with-data-summer-2003/e3116e6dce622860585aacf252a62275_finalsolutions.pdf
+file: /ol-ocw-studio-app/courses/15-063-communicating-with-data-summer-2003/e3116e6dce622860585aacf252a62275_finalsolutions.pdf
 file_size: 192850
 file_type: application/pdf
 learning_resource_types:
