@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/15-063-communicating-with-data-summer-2003/5cfc8b0f8c6576e202a385793c2fd7cd_Lecture14.pdf
+file: /ol-ocw-studio-app/courses/15-063-communicating-with-data-summer-2003/5cfc8b0f8c6576e202a385793c2fd7cd_Lecture14.pdf
 file_size: 272052
 file_type: application/pdf
 learning_resource_types:
