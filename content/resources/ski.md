@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/15-063-communicating-with-data-summer-2003/72895ca866d1f3c17c0695216db50900_ski.xls
+file: /courses/15-063-communicating-with-data-summer-2003/72895ca866d1f3c17c0695216db50900_ski.xls
 file_size: 13824
 file_type: application/msword
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Relating judgement with probability laws and theorem
-file: /ol-ocw-studio-app/courses/15-063-communicating-with-data-summer-2003/5b1504a6a47ef2bb32e89e495e1a51fe_lecture3.pdf
+file: /courses/15-063-communicating-with-data-summer-2003/5b1504a6a47ef2bb32e89e495e1a51fe_lecture3.pdf
 file_size: 722151
 file_type: application/pdf
 learning_resource_types:

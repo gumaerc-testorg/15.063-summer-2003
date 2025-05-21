@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Contains details on simulation, crystal ball and problems.
-file: /ol-ocw-studio-app/courses/15-063-communicating-with-data-summer-2003/40b83b13854656b450d1cd480d615290_rec5.pdf
+file: /courses/15-063-communicating-with-data-summer-2003/40b83b13854656b450d1cd480d615290_rec5.pdf
 file_size: 246763
 file_type: application/pdf
 learning_resource_types:
