@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Reviewing laws of probability and discrete random variables.
-file: /ol-ocw-studio-app/courses/15-063-communicating-with-data-summer-2003/780880e9a9e4fa15379c21ab0c459c89_rec2.pdf
+file: /courses/15-063-communicating-with-data-summer-2003/780880e9a9e4fa15379c21ab0c459c89_rec2.pdf
 file_size: 102704
 file_type: application/pdf
 learning_resource_types:

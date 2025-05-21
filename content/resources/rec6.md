@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Contains linear, multiple regressions and some problems.
-file: /ol-ocw-studio-app/courses/15-063-communicating-with-data-summer-2003/1ef9961afa1d5f12d037b129a1d68659_rec6.pdf
+file: /courses/15-063-communicating-with-data-summer-2003/1ef9961afa1d5f12d037b129a1d68659_rec6.pdf
 file_size: 137898
 file_type: application/pdf
 learning_resource_types:

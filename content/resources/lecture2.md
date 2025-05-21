@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Importance of Decision Trees and Sensitivity Analysis
-file: /ol-ocw-studio-app/courses/15-063-communicating-with-data-summer-2003/933a4eaa73f91b87e0a8dfe47fdcab56_lecture2.pdf
+file: /courses/15-063-communicating-with-data-summer-2003/933a4eaa73f91b87e0a8dfe47fdcab56_lecture2.pdf
 file_size: 113862
 file_type: application/pdf
 learning_resource_types:
